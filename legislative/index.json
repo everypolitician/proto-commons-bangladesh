@@ -1,3 +1,14 @@
 [
-
+  {
+    "comment": "Jatiya Sangshad",
+    "house_item_id": "Q1684080",
+    "position_item_id": "Q13058882",
+    "terms": [
+      {
+        "comment": "10th Jatiyo Sangshad",
+        "position_item_id": "Q42712773",
+        "term_item_id": "Q29387197"
+      }
+    ]
+  }
 ]
