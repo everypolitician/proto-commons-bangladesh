@@ -1,0 +1,6342 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:bn": "শিরীন শারমিন চৌধুরী",
+        "lang:en": "Shirin Sharmin Chaudhury"
+      },
+      "id": "Q12269600",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12269600"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোজাম্মেল হোসেন",
+        "lang:en": "Mozammel Hossain"
+      },
+      "id": "Q13057182",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13057182"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ওবায়দুল কাদের",
+        "lang:en": "Obaidul Quader"
+      },
+      "id": "Q14325293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14325293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মনোরঞ্জন শীল গোপাল",
+        "lang:en": "Manoranjan Shill Gopal"
+      },
+      "id": "Q15043824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15043824"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "রওশন এরশাদ",
+        "lang:en": "Rowshan Ershad"
+      },
+      "id": "Q15633746",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15633746"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোহাম্মদ দাবিরুল ইসলাম",
+        "lang:en": "Mohammad Dabirul Islam"
+      },
+      "id": "Q15782404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15782404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নূরুল ইসলাম সুজন",
+        "lang:en": "Nurul Islam Sujan"
+      },
+      "id": "Q15837138",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15837138"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "রমেশ চন্দ্র সেন",
+        "lang:en": "Ramesh Chandra Sen"
+      },
+      "id": "Q15841687",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15841687"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবুল হাসান মাহমুদ আলী",
+        "lang:en": "Abul Hassan Mahmood Ali"
+      },
+      "id": "Q16058009",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16058009"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ.কে.এম. মাঈদুল ইসলাম"
+      },
+      "id": "Q16345082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16345082"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নজরুল ইসলাম",
+        "lang:en": "Muhammad Nazrul Islam"
+      },
+      "id": "Q16345653",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16345653"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মেহের আফরোজ চুমকি",
+        "lang:en": "Meher Afroz Chumki"
+      },
+      "id": "Q16346295",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16346295"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মুহাম্মদ হাছান মাহমুদ",
+        "lang:en": "Muhammad Hasan Mahmud"
+      },
+      "id": "Q16732958",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16732958"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মুজিবুল হক",
+        "lang:en": "Mujibul Haque Mujib"
+      },
+      "id": "Q18988788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18988788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শাজাহান খান",
+        "lang:en": "Shajahan Khan"
+      },
+      "id": "Q19892715",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19892715"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সৈয়দ মহসিন আলী",
+        "lang:en": "Syed Mohsin Ali"
+      },
+      "id": "Q20604143",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20604143"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ফজলে হোসেন বাদশা",
+        "lang:en": "Fazle Hossain Badsha"
+      },
+      "id": "Q20630534",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20630534"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "হাফিজুর রহমান",
+        "lang:en": "Hafizur Rahman"
+      },
+      "id": "Q20640933",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20640933"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "তারানা হালিম",
+        "lang:en": "Tarana Halim"
+      },
+      "id": "Q20728058",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20728058"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/TaranaHalimMP"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মুস্তফা লুৎফুল্লাহ",
+        "lang:en": "Mustafa Lutfullah"
+      },
+      "id": "Q20983389",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983389"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "টিপু সুলতান",
+        "lang:en": "Tipu Sultan"
+      },
+      "id": "Q21063243",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21063243"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নাহিম রাজ্জাক",
+        "lang:en": "Nahim Razzaq"
+      },
+      "id": "Q21872307",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21872307"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নসরুল হামিদ",
+        "lang:en": "Nasrul Hamid"
+      },
+      "id": "Q21873781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21873781"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. ইয়াসিন আলী",
+        "lang:en": "Md. Yeasin Ali"
+      },
+      "id": "Q23415067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23415067"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "হাজেরা খাতুন",
+        "lang:en": "Hazera Khatun"
+      },
+      "id": "Q23682377",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23682377"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নিলুফার জাফর",
+        "lang:en": "Nilufer Zafar"
+      },
+      "id": "Q23881773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23881773"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আনিসুল হক",
+        "lang:en": "Anisul Huq"
+      },
+      "id": "Q24175641",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24175641"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "বীরেন শিকদার",
+        "lang:en": "Biren Sikdar"
+      },
+      "id": "Q24175644",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24175644"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "হাসানুল হক ইনু",
+        "lang:en": "Hasanul Haq Inu"
+      },
+      "id": "Q24660018",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24660018"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ফজলে নূর তাপস",
+        "lang:en": "Fazle Noor Taposh"
+      },
+      "id": "Q24945807",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24945807"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোফাজ্জল হোসেন চৌধুরী মায়া",
+        "lang:en": "Mofazzal Hossain Chowdhury Maya"
+      },
+      "id": "Q25587313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25587313"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "গোলাম মোস্তফা বিশ্বাস",
+        "lang:en": "Golam Mostofa Biswas"
+      },
+      "id": "Q25588139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25588139"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mostofabiswasmp"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আব্দুল ওদুদ",
+        "lang:en": "Md. Abdul Wadud"
+      },
+      "id": "Q25588149",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25588149"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সৈয়দা সাজেদা চৌধুরী",
+        "lang:en": "Syeda Sajeda Chowdhury"
+      },
+      "id": "Q26703013",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703013"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ইসমত আরা সাদেক",
+        "lang:en": "Ismat Ara Sadique"
+      },
+      "id": "Q26924492",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26924492"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শামসুর রহমান শরীফ",
+        "lang:en": "Shamshur Rahaman Sherif"
+      },
+      "id": "Q26924678",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26924678"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জাহিদ মালেক",
+        "lang:en": "Zahid Maleque"
+      },
+      "id": "Q26924748",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26924748"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মসিউর রহমান রাঙ্গা",
+        "lang:en": "Mashiur Rahaman Ranga"
+      },
+      "id": "Q26924752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26924752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নারায়ন চন্দ্র চন্দ",
+        "lang:en": "Narayon Chandra Chanda"
+      },
+      "id": "Q26924761",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26924761"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবদুল্লাহ আল ইসলাম জ্যাকব",
+        "lang:en": "Abdullah Al Islam Jakob"
+      },
+      "id": "Q26924782",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26924782"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "উশৈ সিং",
+        "lang:en": "Ushwe Sing"
+      },
+      "id": "Q26924794",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26924794"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নুরুজ্জামান আহমেদ",
+        "lang:en": "Nuruzzaman Ahmed"
+      },
+      "id": "Q27063150",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27063150"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শামসুল হক টুকু",
+        "lang:en": "Shamsul Hoque Tuku"
+      },
+      "id": "Q27063242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27063242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জাহাঙ্গীর কবির নানক",
+        "lang:en": "Jahangir Kabir Nanak"
+      },
+      "id": "Q27063289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27063289"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ এফ এম রুহুল হক",
+        "lang:en": "A.F.M Ruhal Haque"
+      },
+      "id": "Q27063642",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27063642"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মন্নুজান সুফিয়ান",
+        "lang:en": "Monnujan Sufian"
+      },
+      "id": "Q27063647",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27063647"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবুল হাসনাত আবদুল্লাহ্",
+        "lang:en": "Abul Hasanat Abdullah"
+      },
+      "id": "Q27662532",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27662532"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শেখ হেলাল উদ্দীন",
+        "lang:en": "Sheikh Helal Uddin"
+      },
+      "id": "Q27662589",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27662589"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নিজাম হাজারী",
+        "lang:en": "Nizam Hazari"
+      },
+      "id": "Q27662656",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27662656"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জাহিদ অহসান রাসেল",
+        "lang:en": "Zahid Ahsan Russell"
+      },
+      "id": "Q27916336",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27916336"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "কাজী নাবিল আহমেদ",
+        "lang:en": "Kazi Nabil Ahmed"
+      },
+      "id": "Q27916337",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27916337"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শামীম ওসমান",
+        "lang:en": "Shamim Osman"
+      },
+      "id": "Q27947698",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27947698"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সেলিম ওসমান",
+        "lang:en": "Salim Osman"
+      },
+      "id": "Q27947719",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27947719"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শাহরিয়ার আলম",
+        "lang:en": "Md. Shahriar Alam"
+      },
+      "id": "Q27949037",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27949037"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ShahriarAlamMp"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোসলেম উদ্দিন",
+        "lang:en": "Moslem Uddin"
+      },
+      "id": "Q28086207",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28086207"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মঞ্জুরুল ইসলাম লিটন",
+        "lang:en": "Manjurul Islam Liton"
+      },
+      "id": "Q28094296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28094296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আ. ক. ম. মোজাম্মেল হক",
+        "lang:en": "Mozammel Haque"
+      },
+      "id": "Q28225262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28225262"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ফজলে রাব্বি মিয়া",
+        "lang:en": "Fazle Rabbi Miah"
+      },
+      "id": "Q28225410",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28225410"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মাহবুবুর রহমান",
+        "lang:en": "Mahbubur Rahman"
+      },
+      "id": "Q28225414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28225414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ইমরান আহমেদ",
+        "lang:en": "Imran Ahmad"
+      },
+      "id": "Q28457273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28457273"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ. বি. এম ফজলে করিম চৌধুরী",
+        "lang:en": "A.B.M. Fazle Karim Chowdhury"
+      },
+      "id": "Q28529910",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28529910"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ শহীদুজ্জামান সরকার",
+        "lang:en": "Md. Shahiduzzaman Sarker"
+      },
+      "id": "Q28858910",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28858910"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "গোলাম মোস্তাফা",
+        "lang:en": "Golam Mostofa"
+      },
+      "id": "Q29387165",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29387165"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জয়া সেনগুপ্তা",
+        "lang:en": "Joya Sengupta"
+      },
+      "id": "Q29564940",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29564940"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. শিবলী সাদিক",
+        "lang:en": "Md. Shibli Sadique"
+      },
+      "id": "Q31724146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31724146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আফতাব উদ্দিন সরকার",
+        "lang:en": "Aftab Uddin Sarkar"
+      },
+      "id": "Q31726158",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31726158"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এমাজউদ্দিন প্রামাণিক"
+      },
+      "id": "Q31727880",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31727880"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শামছুল হক ভূঁইয়া",
+        "lang:en": "Mohammed Shamsul Hoque Bhuyan"
+      },
+      "id": "Q31728596",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31728596"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "গোলাম মোস্তফা",
+        "lang:en": "Golam Mostofa"
+      },
+      "id": "Q31734584",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31734584"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মমতাজ বেগম",
+        "lang:en": "Momtaz Begum"
+      },
+      "id": "Q3449498",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3449498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মাহবুব আরা বেগম গিনি",
+        "lang:en": "Mahabub Ara Begum Gini"
+      },
+      "id": "Q42398738",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42398738"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মুহাম্মদ ইমাজ উদ্দিন প্রামাণিক",
+        "lang:en": "Md. Emaz Uddin Pramanik"
+      },
+      "id": "Q42399066",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42399066"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. ফজলে রাব্বী মিয়া",
+        "lang:en": "Md. Fazle Rabbi Miah"
+      },
+      "id": "Q42399170",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42399170"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "রিফাত আমিন",
+        "lang:en": "Refat Amin"
+      },
+      "id": "Q42725480",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42725480"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নাসিমা ফেরদৌসী",
+        "lang:en": "Nasima Ferdushe"
+      },
+      "id": "Q42725503",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42725503"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সালমা ইসলাম",
+        "lang:en": "Salma Islam"
+      },
+      "id": "Q42725594",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42725594"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জেবুন্নেসা আফরোজ",
+        "lang:en": "Jebunnesa Afroz"
+      },
+      "id": "Q43106469",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43106469"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নাসরিন জাহান রত্না",
+        "lang:en": "Nasreen Jahan Ratna"
+      },
+      "id": "Q43113027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43113027"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আয়েশা ফেরদৌস",
+        "lang:en": "Ayesha Ferdaus"
+      },
+      "id": "Q43241837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43241837"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সেলিনা জাহান লিটা",
+        "lang:en": "Selina Jahan Lita"
+      },
+      "id": "Q43303865",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43303865"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মেরিনা রহমান",
+        "lang:en": "Merina Rahman"
+      },
+      "id": "Q43325430",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43325430"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আমাতুল কিবরিয়া কেয়া চৌধুরী",
+        "lang:en": "Amatul Kibria Keya Chowdhury"
+      },
+      "id": "Q43375652",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43375652"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "লুফতা তাহের",
+        "lang:en": "Lutfa Taher"
+      },
+      "id": "Q43376458",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43376458"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "কামরুল লয়লা জলি",
+        "lang:en": "Kamrul Laila Jolly"
+      },
+      "id": "Q43386067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43386067"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "খোরশেদ আরা হক",
+        "lang:en": "Khorshed Ara Haque"
+      },
+      "id": "Q44046657",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q44046657"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "হুসেইন মুহাম্মদ এরশাদ",
+        "lang:en": "Hussain Muhammad Ershad"
+      },
+      "id": "Q461816",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q461816"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আব্দুল লতিফ সিদ্দিকী",
+        "lang:en": "Abdul Latif Siddiqui"
+      },
+      "id": "Q4665507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665507"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবুল মাল আবদুল মুহিত",
+        "lang:en": "Abul Maal Abdul Muhith"
+      },
+      "id": "Q4670601",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670601"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আকবর হোসেন",
+        "lang:en": "Akbar Hossain"
+      },
+      "id": "Q4700414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4700414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নাজমুল হক প্রধান",
+        "lang:en": "Nazmul Haque Prodhan"
+      },
+      "id": "Q47440979",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47440979"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আমির হোসেন আমু",
+        "lang:en": "Amir Hossain Amu"
+      },
+      "id": "Q4746558",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4746558"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আনোয়ার হোসেন মঞ্জু",
+        "lang:en": "Anwar Hossain Manju"
+      },
+      "id": "Q4778029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4778029"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আসাদুজ্জামান নূর",
+        "lang:en": "Asaduzzaman Noor"
+      },
+      "id": "Q4803291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4803291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "পঞ্চানন বিশ্বাস",
+        "lang:en": "Panchanan Biswas"
+      },
+      "id": "Q50376472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50376472"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ইকবালুর রহিম",
+        "lang:en": "Iqbalur Rahim"
+      },
+      "id": "Q50405663",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50405663"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মাহবুবউল আলম হানিফ",
+        "lang:en": "Mahbubul Alam Hanif"
+      },
+      "id": "Q50822655",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50822655"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শওকত আলী",
+        "lang:en": "Shawkat Ali"
+      },
+      "id": "Q5141788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5141788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "খালিদ মাহমুদ চৌধুরী",
+        "lang:en": "Khalid Mahmud Chowdhury"
+      },
+      "id": "Q52157980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52157980"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. আফতাব উদ্দিন সরকার",
+        "lang:en": "Md. Aftab Uddin Sarker"
+      },
+      "id": "Q52158046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52158046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. শওকত চৌধুরী",
+        "lang:en": "Md. Sawkat Chowdhure"
+      },
+      "id": "Q52158067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52158067"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. মোতাহার হোসেন",
+        "lang:en": "Md. Motahar Hossian"
+      },
+      "id": "Q52158073",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52158073"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবু সালেহ মোহাম্মদ সাঈদ",
+        "lang:en": "Abu Saleh Mohammad Sayeed"
+      },
+      "id": "Q52158088",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52158088"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবুল কালাম মো. আহসানুল হক চৌধুরী",
+        "lang:en": "Abul Kalam Md. Ahasanul Hoque Chowdhury"
+      },
+      "id": "Q52158134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52158134"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "টিপু মুন্সী",
+        "lang:en": "Tipu Munshi"
+      },
+      "id": "Q52161621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161621"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এইচ. এন. আশেকুর রহমান",
+        "lang:en": "H.N. Ashequr Rahman"
+      },
+      "id": "Q52161629",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161629"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ. কে. এম. মোস্তাফিজুর রহমান",
+        "lang:en": "A.K.M. Mostafizur Rahman"
+      },
+      "id": "Q52161639",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161639"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ তাজুল ইসলাম চৌধুরী",
+        "lang:en": "Md. Tajul Islam Choudhury"
+      },
+      "id": "Q52161645",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161645"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ. কে. এম. মাঈদুল ইসলাম",
+        "lang:en": "A.K.M. Mayeedul Islam"
+      },
+      "id": "Q52161650",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161650"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. রুহুল আমিন",
+        "lang:en": "Md. Ruhul Amin"
+      },
+      "id": "Q52161652",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161652"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শামীম হায়দার পাটোয়ারী",
+        "lang:en": "Shameem Haider Patwary"
+      },
+      "id": "Q52161657",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161657"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ডা. মো. ইউনুস আলী সরকার",
+        "lang:en": "Dr. Md. Eunus Ali Sarkar"
+      },
+      "id": "Q52161711",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161711"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. আবুল কালাম আজাদ",
+        "lang:en": "Md. Abul Kalam Azad"
+      },
+      "id": "Q52161718",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161718"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সামছুল আলম দুদু",
+        "lang:en": "Shamsul Alam Dudu"
+      },
+      "id": "Q52161728",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161728"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শেখ হাসিনা",
+        "lang:en": "Sheikh Hasina"
+      },
+      "id": "Q52183",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52183"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবু সাঈদ আল মাহ্‌মুদ স্বপন",
+        "lang:en": "Abu Sayeed Al Mahmood Swapon"
+      },
+      "id": "Q52183449",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52183449"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আব্দুল মান্নান",
+        "lang:en": "Abdul Mannan"
+      },
+      "id": "Q52184008",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52184008"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শরিফুল ইসলাম জিন্নাহ্",
+        "lang:en": "Shariful Islam Jinnah"
+      },
+      "id": "Q52221802",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52221802"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ নূরুল ইসলাম তালুকদার",
+        "lang:en": "Md. Nurul Islam Talukder"
+      },
+      "id": "Q52222094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52222094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ. কে. এম. রেজাউল করিম তানসেন",
+        "lang:en": "A.K.M. Rezaul Karim Tansen"
+      },
+      "id": "Q52222312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52222312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ হাবিবর রহমান",
+        "lang:en": "Md. Habibar Rahman"
+      },
+      "id": "Q52222736",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52222736"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ নূরুল ইসলাম ওমর",
+        "lang:en": "Md. Nurul Islam Omar"
+      },
+      "id": "Q52223242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52223242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মুহম্মাদ আলতাফ আলী",
+        "lang:en": "Md. Altaf Ali"
+      },
+      "id": "Q52223578",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52223578"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোহাঃ গোলাম রাব্বানী",
+        "lang:en": "Md. Golam Rabbani"
+      },
+      "id": "Q52223720",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52223720"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ আব্দুল ওদুদ",
+        "lang:en": "Md. Abdul Wadud"
+      },
+      "id": "Q52224102",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52224102"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সাধন চন্দ্র মজুমদার",
+        "lang:en": "Sadhan Chandra Majumder"
+      },
+      "id": "Q52224610",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52224610"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ছলিম উদ্দীন তরফদার",
+        "lang:en": "Mohd. Salim Uddin Tarafder"
+      },
+      "id": "Q52314155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52314155"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো: আব্দুল মালেক",
+        "lang:en": "Md. Abdul Maleque"
+      },
+      "id": "Q52314638",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52314638"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ ইসরাফিল আলম",
+        "lang:en": "Md. Israfil Alam"
+      },
+      "id": "Q52315000",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52315000"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ওমর ফারুক চৌধুরী",
+        "lang:en": "Omor Faruk Chowdhury"
+      },
+      "id": "Q52315739",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52315739"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ আয়েন উদ্দিন",
+        "lang:en": "Md. Ayeen Uddin"
+      },
+      "id": "Q52322917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52322917"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এনামুল হক",
+        "lang:en": "Enamul Haque"
+      },
+      "id": "Q52323331",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52323331"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ আব্দুল ওয়াদুদ",
+        "lang:en": "Abdul Wadud"
+      },
+      "id": "Q52323732",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52323732"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ আবুল কালাম",
+        "lang:en": "Md. Abul Kalam"
+      },
+      "id": "Q52324777",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52324777"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ শফিকুল ইসলাম শিমুল",
+        "lang:en": "Md. Shafiqul Islam Shimul"
+      },
+      "id": "Q52325305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52325305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ আব্দুল কুদ্দুস",
+        "lang:en": "Md. Abdul Quddus"
+      },
+      "id": "Q52379034",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52379034"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ হাবিবে মিল্লাত",
+        "lang:en": "Md. Habibe Millat"
+      },
+      "id": "Q52379479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52379479"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "গাজী এম এম আমজাদ হোসেন",
+        "lang:en": "Gazi M M Amjad Hossain"
+      },
+      "id": "Q52380350",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52380350"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "তানভীর ইমাম",
+        "lang:en": "Tanveer Imam"
+      },
+      "id": "Q52381466",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52381466"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আঃ মজিদ মন্ডল",
+        "lang:en": "Abdul Majid Mondol"
+      },
+      "id": "Q52479436",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52479436"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ হাসিবুর রহমান স্বপন",
+        "lang:en": "Hashibur Rahman Swapon"
+      },
+      "id": "Q52485815",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52485815"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "খন্দকার আজিজুল হক আরজু",
+        "lang:en": "Kh. Azizul Huq Arzu"
+      },
+      "id": "Q52486485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52486485"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ মকবুল হোসেন",
+        "lang:en": "Md. Mokbul Hossain"
+      },
+      "id": "Q52486743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52486743"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "গোলাম ফারুক খন্দঃ প্রিন্স",
+        "lang:en": "Golam Faruk Khandakar Prince"
+      },
+      "id": "Q52487530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52487530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ফরহাদ হোসেন",
+        "lang:en": "Farhad Hossain"
+      },
+      "id": "Q52488080",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52488080"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোহাম্মদ মকবুল হোসেন",
+        "lang:en": "Mohammad Mokbul Hossain"
+      },
+      "id": "Q52488547",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52488547"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ রেজাউল হক চৌধুরী",
+        "lang:en": "Md. Rezaul Haque Chowdhury"
+      },
+      "id": "Q52489148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52489148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আবদুর রউফ",
+        "lang:en": "Abdur Rouf"
+      },
+      "id": "Q52556427",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556427"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সোলায়মান হক জোয়ার্দ্দার (ছেলুন)",
+        "lang:en": "Solaiman Haque Joarder (Selun)"
+      },
+      "id": "Q52556468",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556468"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মো. আলী আজগার",
+        "lang:en": "Md. Ali Azgar"
+      },
+      "id": "Q52556568",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556568"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ আব্দুল হাই",
+        "lang:en": "Md. Abdul Hyee"
+      },
+      "id": "Q52556601",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556601"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "তাহজীব আলম সিদ্দিকী",
+        "lang:en": "Tahjib Alam Siddique"
+      },
+      "id": "Q52556637",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556637"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ আনোয়ারুল আজীম (আনার)",
+        "lang:en": "Md. Anwarul Azim (Anar)"
+      },
+      "id": "Q52556647",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556647"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শেখ আফিল উদ্দিন",
+        "lang:en": "Sk. Afil Uddin"
+      },
+      "id": "Q52556658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ মনিরুল ইসলাম",
+        "lang:en": "Md. Monirul Islam"
+      },
+      "id": "Q52556662",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52556662"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "রণজিত কুমার রায়",
+        "lang:en": "Ranajit Kumar Roy"
+      },
+      "id": "Q52677146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52677146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "স্বপন ভট্টাচার্য",
+        "lang:en": "Shawpan Bhattacharjee"
+      },
+      "id": "Q52677412",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52677412"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ টি এম ‍আব্দুল ওয়াহাব",
+        "lang:en": "A T M Abdul Wahab"
+      },
+      "id": "Q52677948",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52677948"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোঃ কবিরুল হক",
+        "lang:en": "Md. Kabirul Haque"
+      },
+      "id": "Q52679013",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52679013"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শেখ হাফিজুর রহমান",
+        "lang:en": "Sk. Hafizur Rahman"
+      },
+      "id": "Q52679209",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52679209"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মীর শওকাত আলী বাদশা",
+        "lang:en": "Mir Showkat Ali Badsha"
+      },
+      "id": "Q52679503",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52679503"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মুহাম্মদ মিজানুর রহমান",
+        "lang:en": "Mohammad Mizanur Rahman"
+      },
+      "id": "Q52722297",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52722297"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "বেগম মন্নুজান সুফিয়ান",
+        "lang:en": "Begum Monnuzan Sufian"
+      },
+      "id": "Q52722628",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52722628"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এস.এম. মোস্তফা রশিদী",
+        "lang:en": "S.M. Mostafa Rashidi"
+      },
+      "id": "Q52722833",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52722833"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শেখ মোঃ নূরুল হক",
+        "lang:en": "SK. Md. Nurul Haque"
+      },
+      "id": "Q52723219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52723219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মীর মোস্তাক আহমেদ রবি",
+        "lang:en": "Mir Mostaque Ahmed Robi"
+      },
+      "id": "Q52725438",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52725438"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আ স ম ফিরোজ",
+        "lang:en": "A.S.M. Feroz"
+      },
+      "id": "Q52775724",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52775724"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এস. এম. জগলুল হায়দার",
+        "lang:en": "S.M. Jaglul Hayder"
+      },
+      "id": "Q52776061",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52776061"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "ধীরেন্দ্র দেবনাথ শমভু",
+        "lang:en": "Dhirendra Debnath Shambhu"
+      },
+      "id": "Q52776281",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52776281"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "শওকত হাচানুর রহমান (রিমন)",
+        "lang:en": "Showkat Hasanur Rahman (Rimon)"
+      },
+      "id": "Q52776426",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52776426"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ. বি. এম. রুহুল আমিন হাওলাদার",
+        "lang:en": "A.B.M. Ruhul Amin Howlader"
+      },
+      "id": "Q52776496",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52776496"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "এ. কে. এম জাহাঙ্গীর হোসেন",
+        "lang:en": "A.K.M Zahangir Hossain"
+      },
+      "id": "Q52826185",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52826185"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আলী আজম",
+        "lang:en": "Ali Azam"
+      },
+      "id": "Q53112922",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53112922"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নুরুন্নবী চৌধুরী শাওন",
+        "lang:en": "Nurunnabi Chowdhury Shaon"
+      },
+      "id": "Q53113164",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53113164"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "তালুকদার মোঃ ইউনুস",
+        "lang:en": "Talukder Md. Yunus"
+      },
+      "id": "Q53115091",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53115091"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "পংকজ নাথ",
+        "lang:en": "Pankaj Nath"
+      },
+      "id": "Q53115721",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53115721"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "বজলুল হক হারুন",
+        "lang:en": "Bazlul Haque Haroon"
+      },
+      "id": "Q53116893",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53116893"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোরশেদ আলম",
+        "lang:en": "Morshed Alam"
+      },
+      "id": "Q55399970",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55399970"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "দীপু মনি",
+        "lang:en": "Dipu Moni"
+      },
+      "id": "Q58264",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58264"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জুনাইদ আহমেদ পলক",
+        "lang:en": "Zunaid Ahmed Palak"
+      },
+      "id": "Q6311615",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6311615"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/zapalak"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "খন্দকার মোশাররফ হোসেন",
+        "lang:en": "Khandaker Mosharraf Hossain"
+      },
+      "id": "Q6400209",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400209"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মতিয়া চৌধুরী",
+        "lang:en": "Matia Chowdhury"
+      },
+      "id": "Q6787396",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6787396"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোহাম্মদ নাসিম",
+        "lang:en": "Mohammed Nasim"
+      },
+      "id": "Q6893246",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893246"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "মোস্তাফিজুর রহমান ফিজার",
+        "lang:en": "Mostafizur Rahman Fizar"
+      },
+      "id": "Q6916893",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6916893"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "আ হ ম মোস্তফা কামাল",
+        "lang:en": "Mustafa Kamal"
+      },
+      "id": "Q6943274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6943274"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "নাইমুর রহমান দুর্জয়",
+        "lang:en": "Naimur Rahman"
+      },
+      "id": "Q6959685",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6959685"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "রাশেদ খান মেনন",
+        "lang:en": "Rashed Khan Menon"
+      },
+      "id": "Q7294828",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7294828"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সাবের হোসেন চৌধুরী",
+        "lang:en": "Saber Hossain Chowdhury"
+      },
+      "id": "Q7396043",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7396043"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সাহারা খাতুন",
+        "lang:en": "Sahara Khatun"
+      },
+      "id": "Q7399497",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399497"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "সৈয়দ আশরাফুল ইসলাম",
+        "lang:en": "Sayed Ashraful Islam"
+      },
+      "id": "Q7429149",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7429149"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "তোফায়েল আহমেদ",
+        "lang:en": "Tofail Ahmed"
+      },
+      "id": "Q7812953",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7812953"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:bn": "জাতীয় সংসদ",
+        "lang:en": "Jatiya Sangshad"
+      },
+      "id": "Q1684080",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1684080"
+        }
+      ],
+      "area_id": "Q902",
+      "seat_counts": {
+        "Q13058882": "350"
+      }
+    },
+    {
+      "name": {
+        "lang:bn": "বাংলাদেশ আওয়ামী লীগ",
+        "lang:en": "Bangladesh Awami League"
+      },
+      "id": "Q1281480",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1281480"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জাতীয় পার্টি",
+        "lang:en": "Jatiya Party"
+      },
+      "id": "Q1361491",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1361491"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "বাংলাদেশের ওয়ার্কার্স পার্টি",
+        "lang:en": "Workers Party of Bangladesh"
+      },
+      "id": "Q4382630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4382630"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জাতীয় পার্টি (মঞ্জু)",
+        "lang:en": "Jatiya Party (Manju)"
+      },
+      "id": "Q6164607",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6164607"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:bn": "জাতীয় সমাজতান্ত্রিক দল",
+        "lang:en": "Jatiya Samajtantrik Dal"
+      },
+      "id": "Q6164619",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6164619"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12269600-73D8B62E-6AF4-4013-8018-2595A2733C73",
+      "person_id": "Q12269600",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13057182-c98f59d6-451d-94ac-a895-c74013b3fec0",
+      "person_id": "Q13057182",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q14325293-934A3488-087C-41F5-8F38-2EC5FFC1B6E8",
+      "person_id": "Q14325293",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15043824-9EF8873E-7F93-4434-8BB1-3B9A130843FA",
+      "person_id": "Q15043824",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15633746-5bea5113-4170-d1dc-4af7-52ab522ae509",
+      "person_id": "Q15633746",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15782404-5EB14AE2-4CE6-4B59-9606-FECDDC4EB659",
+      "person_id": "Q15782404",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15837138-A0D0BB2C-AF4E-418F-998A-56008646E989",
+      "person_id": "Q15837138",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15841687-672E7325-FFAA-4796-9E9D-B3B13DDD496F",
+      "person_id": "Q15841687",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16058009-175E9DFB-8C94-48C2-A049-346BE37B0170",
+      "person_id": "Q16058009",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16345082-E958EB7B-5F3D-4C2C-8E93-712B482BD220",
+      "person_id": "Q16345082",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16345653-15170570-B282-4718-A515-10D94E138627",
+      "person_id": "Q16345653",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16346295-7EDC73DA-A0E9-49FC-B9EA-6CD1F098080C",
+      "person_id": "Q16346295",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16732958-9F226042-D47F-4A35-B52B-068018995859",
+      "person_id": "Q16732958",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18988788-54A6E2A0-4CBE-4786-81D1-B520A453A007",
+      "person_id": "Q18988788",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19892715-EE7A8FE9-78F0-482F-9180-D5321F46BE77",
+      "person_id": "Q19892715",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20604143-11346D6D-2252-4CE5-B5A9-2032FCD0D82F",
+      "person_id": "Q20604143",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20630534-35d3731d-4021-862f-9218-cf56228363a0",
+      "person_id": "Q20630534",
+      "on_behalf_of_id": "Q4382630",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20640933-A0911BF1-A435-464F-9582-DBBD02E03A57",
+      "person_id": "Q20640933",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20728058-ED09350D-15E4-4092-9237-F4AA87EBC4C9",
+      "person_id": "Q20728058",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983389-784d631c-406f-b6fb-34bd-e8f0bdcf0bd6",
+      "person_id": "Q20983389",
+      "on_behalf_of_id": "Q4382630",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21063243-45fd6728-4fa4-63f6-71b3-9e765101c513",
+      "person_id": "Q21063243",
+      "on_behalf_of_id": "Q4382630",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21872307-7B7FC1B7-4B60-419E-93DA-870D6E32964C",
+      "person_id": "Q21872307",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21873781-5F23B805-900E-4831-A3D8-D0FA1E747923",
+      "person_id": "Q21873781",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23415067-a5e8795f-4e9f-ab30-735d-4c32cf1a25d4",
+      "person_id": "Q23415067",
+      "on_behalf_of_id": "Q4382630",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23682377-A6861419-CB71-4D31-8FE0-33C6EE800DE2",
+      "person_id": "Q23682377",
+      "on_behalf_of_id": "Q4382630",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23881773-338979B5-7FA6-4509-96FC-D0EB02A46225",
+      "person_id": "Q23881773",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24175641-6D86736B-88C1-41F1-8232-086C1C2F489B",
+      "person_id": "Q24175641",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24175644-2DEE5EF4-7618-45C4-9D73-C5E3D0B6705B",
+      "person_id": "Q24175644",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24660018-FD09A5DD-845F-49AE-9F52-68732E02AFF7",
+      "person_id": "Q24660018",
+      "on_behalf_of_id": "Q6164619",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24945807-9DFC64DB-DEB5-46BC-BC17-CCED6F5D248C",
+      "person_id": "Q24945807",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25587313-8D4A07BE-E666-4502-85C7-E8B2E35F11D7",
+      "person_id": "Q25587313",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25588139-58f53058-4307-c389-3e25-c4f9154c5bcd",
+      "person_id": "Q25588139",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25588149-0DF8D991-04F5-4E71-A9F2-8FB71EB69E5F",
+      "person_id": "Q25588149",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703013-AA609027-5837-47A6-AFAF-F5C4FB26793A",
+      "person_id": "Q26703013",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26924492-c0e5baef-4938-9a2a-db44-41d1dd71f797",
+      "person_id": "Q26924492",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26924678-67682FB6-61FD-4E35-B190-BB4B8C58DD31",
+      "person_id": "Q26924678",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26924748-8911EDFB-782F-40A5-883D-C71B5D0B9BB2",
+      "person_id": "Q26924748",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26924752-1A16D76E-D032-42C3-B1F7-16F8E88B71FE",
+      "person_id": "Q26924752",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26924761-F0EA84F8-BA07-48D1-9AB0-C981BAC445B2",
+      "person_id": "Q26924761",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26924782-5d71a1f8-4809-0798-94a1-6ad190d3f2ff",
+      "person_id": "Q26924782",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26924794-8F3DB5B2-C70C-4B59-B015-232CE2FBC5BC",
+      "person_id": "Q26924794",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27063150-57da7eea-472d-ad17-3c52-4ae564c5d814",
+      "person_id": "Q27063150",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27063242-f58584da-4f78-8c0a-a836-5b6ce0bfd740",
+      "person_id": "Q27063242",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27063289-83E549B4-2641-452F-AE11-56FB9E566BAD",
+      "person_id": "Q27063289",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27063642-f9bb1fa0-45e4-614a-a5d4-dd72f5412f0f",
+      "person_id": "Q27063642",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27063647-A238B725-969F-424C-A8B3-61FE0A62F73A",
+      "person_id": "Q27063647",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27662532-3fc8aadc-4ceb-b8ef-c444-7e44320c51e0",
+      "person_id": "Q27662532",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27662589-70ed0b79-4570-17fd-122b-bc4ee6107e4d",
+      "person_id": "Q27662589",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27662656-40C19CD2-F51E-48A1-973E-53F82378B163",
+      "person_id": "Q27662656",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27916336-B77F5ABC-B4B9-4FB6-A0DE-B0F52A3A3B74",
+      "person_id": "Q27916336",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27916337-a780dd17-495f-b1b3-4138-5332f6e92c08",
+      "person_id": "Q27916337",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27947698-E5EDF9A4-8763-4324-86BB-9F44863A4CC1",
+      "person_id": "Q27947698",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27947719-B2D1D3AC-1D51-4823-8132-174DE1466338",
+      "person_id": "Q27947719",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27949037-B873B652-D621-4298-8CB8-CE7179D1F392",
+      "person_id": "Q27949037",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28086207-1F93B19A-9AA5-4E69-90BF-2BB8BB03CC84",
+      "person_id": "Q28086207",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28094296-03C17E5D-D26D-4051-9233-9FBCCF8D993B",
+      "person_id": "Q28094296",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28225262-00B98F1B-3E6D-48E7-BD33-D342E7BE1C41",
+      "person_id": "Q28225262",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28225410-58AEC883-EFC3-45E1-A453-3EE592FA9E29",
+      "person_id": "Q28225410",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28225414-9BE4D8F8-BB41-45CA-A809-4D21785E4A17",
+      "person_id": "Q28225414",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28225414-DAC0E0E2-B086-4F65-A3CA-F8722F11D735",
+      "person_id": "Q28225414",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28457273-9223F314-61F8-4E03-9379-57412557767C",
+      "person_id": "Q28457273",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28529910-B85F9D62-7576-4024-B0FE-EDEA15DA7DB6",
+      "person_id": "Q28529910",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28858910-8e47ae63-4452-2dc3-74cd-5b3ef2455b4b",
+      "person_id": "Q28858910",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29387165-16b8c52f-41f5-7dae-03f1-6fd153d1f0d0",
+      "person_id": "Q29387165",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29387165-35a6b72a-4601-ba99-10d8-96ae276744d8",
+      "person_id": "Q29387165",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29564940-aec27088-46c1-bf24-b491-6f2cbc1afe03",
+      "person_id": "Q29564940",
+      "organization_id": "Q1684080",
+      "area_id": "Q2093388",
+      "start_date": "2017-04-16",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31724146-a3a2c581-49f7-5a7c-4e89-f1d6d716a3e7",
+      "person_id": "Q31724146",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31726158-AA90CD3D-463C-4C37-8EC4-EB7A66CFFF13",
+      "person_id": "Q31726158",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31727880-4584D2F9-8A8B-476E-A627-16FD2FAA4D13",
+      "person_id": "Q31727880",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31728596-A45AF0CB-B11B-4E8D-8887-80FEF961A528",
+      "person_id": "Q31728596",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31734584-096B0D73-F512-4076-BA81-7A1074CBD371",
+      "person_id": "Q31734584",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3449498-0507B853-DACB-40D3-95DC-C01AC6581E96",
+      "person_id": "Q3449498",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42398738-10ba4c0e-4010-46a4-9077-ebb3ad4bd8f4",
+      "person_id": "Q42398738",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42399066-700563b9-4bd5-edd4-6d82-5258f880d2b9",
+      "person_id": "Q42399066",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42399170-c3a30283-416b-8b25-d7f6-7bf4f597b709",
+      "person_id": "Q42399170",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42725480-4346efdd-4611-d777-a553-1ff36bafcb0b",
+      "person_id": "Q42725480",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42725503-60c0ff40-42f7-f0d7-30d6-a3689ba45e3d",
+      "person_id": "Q42725503",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42725594-47079819-40b9-6aca-1837-51deaa9445c2",
+      "person_id": "Q42725594",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43106469-941fedd6-4253-f33f-c63b-34000fdcfc0b",
+      "person_id": "Q43106469",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43113027-ee169d70-4b51-4582-0f13-d0b968496927",
+      "person_id": "Q43113027",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43241837-AB6FBEBE-CFC6-462B-A675-9268E49DDE7A",
+      "person_id": "Q43241837",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43303865-1D4C9871-B7DD-4DA3-8A18-805037841389",
+      "person_id": "Q43303865",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43325430-ED283221-17C2-410B-A84E-711151C89366",
+      "person_id": "Q43325430",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43375652-B94362C1-A850-40D4-AD35-CF2D15D1277E",
+      "person_id": "Q43375652",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43376458-BC7E27A4-8B6E-4807-AE4D-0CEE0BD9F86C",
+      "person_id": "Q43376458",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43386067-01D9304A-4178-44FA-8FB1-0C1E5B99EA9E",
+      "person_id": "Q43386067",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q44046657-22481918-9DB6-46AC-A4A8-93F879CC7D9D",
+      "person_id": "Q44046657",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q461816-5054C41F-611B-4688-831E-44C47FCCEE58",
+      "person_id": "Q461816",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665507-2DBD49EB-539A-4AE6-8139-F33EB62C0F51",
+      "person_id": "Q4665507",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670601-EE4BF376-3DCC-4D3F-BFF0-7BEBB5773D55",
+      "person_id": "Q4670601",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4700414-6C187BD5-5640-44DE-902C-F2736C7F38EA",
+      "person_id": "Q4700414",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47440979-744c32c1-4fe8-1037-d928-fa3a0845a048",
+      "person_id": "Q47440979",
+      "on_behalf_of_id": "Q6164619",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4746558-31a9f832-4542-a3d7-2a88-e97ae199dd41",
+      "person_id": "Q4746558",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4778029-838F54B8-FBDC-4A2A-8769-3FA6FF3E20D3",
+      "person_id": "Q4778029",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4803291-985C823D-DFDD-48AD-B1B5-D508D53C0678",
+      "person_id": "Q4803291",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50376472-de346d6b-440e-3077-d20a-60fd58d7aee1",
+      "person_id": "Q50376472",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50405663-679e2a68-4592-1c32-a528-08b37a08a0d3",
+      "person_id": "Q50405663",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50822655-785c4016-44c8-e24b-f2dd-74da37252baa",
+      "person_id": "Q50822655",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5141788-D096876C-9B13-4B04-B9A9-5E3EC355A4B4",
+      "person_id": "Q5141788",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52157980-a90036cb-4e4e-88ac-c8ea-885b36e37e56",
+      "person_id": "Q52157980",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52158046-30485bc4-4ae8-4597-d849-9d0ba8212797",
+      "person_id": "Q52158046",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52158067-18af9c9b-4874-bdae-0dd5-90a61d03679b",
+      "person_id": "Q52158067",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52158073-807b89b7-403e-8cc1-a8f6-234c348160f0",
+      "person_id": "Q52158073",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52158088-1cf26b1a-4921-d254-e523-75664a5011fb",
+      "person_id": "Q52158088",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52158134-12b0a987-4f4a-bdcf-cc13-d38f0c8ba282",
+      "person_id": "Q52158134",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161621-778ccd57-4cb0-356c-f221-1dc18b81a6c2",
+      "person_id": "Q52161621",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161629-108533a3-4c45-8ebe-5c01-e80e5f013845",
+      "person_id": "Q52161629",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161639-03e09c19-4bbc-8e02-a934-6593fc530d04",
+      "person_id": "Q52161639",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161645-7ea2b0e0-4469-6792-465a-2be246b181d8",
+      "person_id": "Q52161645",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161650-a9578162-4de7-76d8-aef4-edfdd888a039",
+      "person_id": "Q52161650",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161652-2b8523a8-46f3-ec9d-80ed-931387551430",
+      "person_id": "Q52161652",
+      "on_behalf_of_id": "Q6164607",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161657-44c85369-4fd4-a0ae-c0a9-9e3256b4c1c9",
+      "person_id": "Q52161657",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161711-4137ef4f-48be-938c-2e3a-453ae25fafb4",
+      "person_id": "Q52161711",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161718-d394ea63-4f3e-eb2c-c5d5-ab4c8783269d",
+      "person_id": "Q52161718",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161728-67172d3e-43d2-0849-feb8-11a8fbb6f861",
+      "person_id": "Q52161728",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52183-2ECF35F9-FFD2-4BED-8192-36994418DD74",
+      "person_id": "Q52183",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52183449-27b66bec-42a3-a78b-7872-10b1addfa850",
+      "person_id": "Q52183449",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52184008-d85529b7-436d-b25b-78e5-aaa534eb625b",
+      "person_id": "Q52184008",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52221802-0c71eaa9-49a9-d809-d8da-bcc4deef7314",
+      "person_id": "Q52221802",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52222094-729a4619-479a-87ec-6358-a2bca49ef11d",
+      "person_id": "Q52222094",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52222312-611dd239-49f8-05a0-efb0-487ce3ff16ef",
+      "person_id": "Q52222312",
+      "on_behalf_of_id": "Q6164619",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52222736-1effd035-4718-45a4-7f7a-5b941d1dea0b",
+      "person_id": "Q52222736",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52223242-72ffbce9-4643-c5b8-e62c-b08abcc901c0",
+      "person_id": "Q52223242",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52223578-6efe3d61-4caa-c7e3-cf17-8746ab65ac00",
+      "person_id": "Q52223578",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52223720-19c9c940-4f9e-643f-c26c-deca5edb8a06",
+      "person_id": "Q52223720",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52224102-0ddad757-458a-a52b-af82-928f9e6a8373",
+      "person_id": "Q52224102",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52224610-0a2455a4-42de-c139-a66b-2ba7c88666ba",
+      "person_id": "Q52224610",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52314155-a7bc901c-47ee-9f03-c0f4-4ac07be15766",
+      "person_id": "Q52314155",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52314638-3eebf3aa-4412-4dde-7227-731e9491f5cb",
+      "person_id": "Q52314638",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52315000-93fff38e-4aea-ac34-3ff2-ec1dd37c410b",
+      "person_id": "Q52315000",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52315739-6bb0f8c8-41e4-365c-2806-5aa3ec7d6ed2",
+      "person_id": "Q52315739",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52322917-db0eea68-4f4a-c18c-3f77-4d2f0d801d5b",
+      "person_id": "Q52322917",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52323331-6342ecc2-44e5-1d52-c49d-c512a9452a7b",
+      "person_id": "Q52323331",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52323732-9257c1e7-4045-704b-8c43-4f9aaea65c01",
+      "person_id": "Q52323732",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52324777-8ed8ecd9-4b3a-5329-cd83-1b8efb7a22eb",
+      "person_id": "Q52324777",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52325305-1333f3cc-4afe-c547-5986-43071d3f6b90",
+      "person_id": "Q52325305",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52379034-a8af62a1-4bd1-c3a1-f82d-83f22612ab6e",
+      "person_id": "Q52379034",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52379479-5c527689-443b-02cb-d3f9-9f99d8d929fc",
+      "person_id": "Q52379479",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52380350-5793758c-415a-0742-031f-23336adc3c9d",
+      "person_id": "Q52380350",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52381466-a7cd4a8b-4481-d75b-e089-2292a2cc12f2",
+      "person_id": "Q52381466",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52479436-3bb13713-47b5-a5d8-73fb-1a25455212de",
+      "person_id": "Q52479436",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52485815-2c454a6a-48aa-4aef-dd9b-c7253ca65606",
+      "person_id": "Q52485815",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52486485-3dd926f5-4d0f-6dae-59f8-99b982a76d1e",
+      "person_id": "Q52486485",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52486743-0bce2abb-445b-207d-f130-c36942e16e73",
+      "person_id": "Q52486743",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52487530-ee4430df-4bf3-0c25-5f7c-9230091b9726",
+      "person_id": "Q52487530",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52488080-a115ca12-44aa-f0de-a99f-751a8441916c",
+      "person_id": "Q52488080",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52488547-c6affd3d-47e8-a63f-4ca1-a92e6b3635c8",
+      "person_id": "Q52488547",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52489148-223dff83-43f8-abfe-a408-0b62bada03f2",
+      "person_id": "Q52489148",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556427-d8790741-42a4-f14a-6a2b-26ef7246b0b3",
+      "person_id": "Q52556427",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556468-5926195b-47c4-f5d1-528c-73283a31c3e1",
+      "person_id": "Q52556468",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556568-24b19d8f-41ef-da78-ac55-de6c7ed895d7",
+      "person_id": "Q52556568",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556601-b4f6ae84-4f23-3fec-38c1-927d8d3ccfca",
+      "person_id": "Q52556601",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556637-76226cd6-4365-f86c-4c0f-259045a4c80f",
+      "person_id": "Q52556637",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556647-5e9278cf-4ac5-fec7-eadc-875b65846cc9",
+      "person_id": "Q52556647",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556658-8b84422a-4665-8630-9355-374226409fe1",
+      "person_id": "Q52556658",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52556662-9a36ef42-4546-7cdf-b26d-177d3378b89c",
+      "person_id": "Q52556662",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52677146-be8a94dd-44bf-524d-8a13-7ba687c7b887",
+      "person_id": "Q52677146",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52677412-477ea344-4bde-f7fe-cd23-218254bf9efb",
+      "person_id": "Q52677412",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52677948-a5d9e9e5-43fb-8373-45fe-432590631be4",
+      "person_id": "Q52677948",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52679013-2b4fdbaf-4932-8c46-62a8-b25013b38e3a",
+      "person_id": "Q52679013",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52679209-0f90877e-4357-8f71-e911-09be5cb331c5",
+      "person_id": "Q52679209",
+      "on_behalf_of_id": "Q4382630",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52679503-d91f38cc-4590-f840-2aff-524a77ab56cd",
+      "person_id": "Q52679503",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52722297-2f76da59-4ff1-dd17-57c2-4225accba7e8",
+      "person_id": "Q52722297",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52722628-950d6d5c-4b00-e046-412d-9d34d6b89883",
+      "person_id": "Q52722628",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52722833-26932dcb-435f-550c-cb7a-046052c0f41e",
+      "person_id": "Q52722833",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52723219-e9b3e6a6-48df-2ad8-879f-042d35de6bf3",
+      "person_id": "Q52723219",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52725438-54752de8-44ed-bf49-7788-6bce60a94a67",
+      "person_id": "Q52725438",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52775724-52f13192-4087-5c4d-82e3-57f58ae58277",
+      "person_id": "Q52775724",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52776061-519e784a-4cae-13f4-d2c4-719edc7ace99",
+      "person_id": "Q52776061",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52776281-9ad61959-496b-3fb5-d814-f80f7f153b9f",
+      "person_id": "Q52776281",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52776426-90c5cb20-4bff-5566-9abe-728cb19d0830",
+      "person_id": "Q52776426",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52776496-7cbde258-42a2-966b-5800-e546f8fbc059",
+      "person_id": "Q52776496",
+      "on_behalf_of_id": "Q1361491",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52826185-ccc1c7aa-4337-a99e-2ebb-8b6f781f17c7",
+      "person_id": "Q52826185",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53112922-3063fb11-47ac-441f-84b2-46a900ba69c6",
+      "person_id": "Q53112922",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53113164-b4e7ceca-48c9-c524-b646-d9b2c2493370",
+      "person_id": "Q53113164",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53115091-d58f40a8-4a9d-d16d-3df2-776db6e3ca15",
+      "person_id": "Q53115091",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53115721-d29dbec1-4cc1-04a6-8a39-b79431f83d8f",
+      "person_id": "Q53115721",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53116893-18e065ae-4e84-01ba-e093-c6dab1921e44",
+      "person_id": "Q53116893",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55399970-77F38630-5D72-4E89-83C1-61EF2D7D0690",
+      "person_id": "Q55399970",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58264-BC5F8BED-7BC1-4FBC-94C4-D310829B4A6E",
+      "person_id": "Q58264",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6311615-49bf26f1-4dd5-5ea9-d9b3-a838b88c3e9b",
+      "person_id": "Q6311615",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6400209-3A02FF52-5602-4577-8113-31BC51086F05",
+      "person_id": "Q6400209",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6787396-1F842096-B020-4BC0-BF16-A2476C1228A7",
+      "person_id": "Q6787396",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893246-793900e9-4e5c-d80b-65b7-949ee01bc55c",
+      "person_id": "Q6893246",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6916893-5302835b-49ff-e595-2d35-6c547484795e",
+      "person_id": "Q6916893",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6943274-2A5650BA-F374-4821-BD53-C0F3BEB74884",
+      "person_id": "Q6943274",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6959685-C56CD46D-AA05-432B-B043-D50CA6970F09",
+      "person_id": "Q6959685",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7294828-FFAEA3B0-50A8-4773-9986-23E37E530525",
+      "person_id": "Q7294828",
+      "on_behalf_of_id": "Q4382630",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7396043-D880B80A-14FA-4BF8-92CE-FB788329F75A",
+      "person_id": "Q7396043",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7399497-479A6402-E619-4BB3-9E5A-C4053A9B63A4",
+      "person_id": "Q7399497",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7429149-CB8713FE-141F-435B-932A-47DDAA8F0D10",
+      "person_id": "Q7429149",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7812953-82BD56C7-6CA0-4C4A-BE1A-66AB970CB54B",
+      "person_id": "Q7812953",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q1684080",
+      "start_date": "2014-01-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:bn": "সংসদ সদস্য",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q13058882",
+      "role": {
+        "lang:bn": "জাতীয় সংসদ সদস্য",
+        "lang:en": "Member of the Jatiya Sangshad"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+WARNING: Position জাতীয় সংসদ সদস্য (Q13058882) not in boundary associated_wikidata_positions
+WARNING: the district সুনামগঞ্জ জেলা (Q2093388) wasn't found in the boundary data for position জাতীয় সংসদ সদস্য (Q13058882)
