@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:bn": "জাতীয় সংসদ",
+        "lang:en": "Jatiya Sangshad"
+      },
+      "id": "Q1684080",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1684080"
+        }
+      ],
+      "area_id": "Q902",
+      "seat_counts": {
+        "Q13058882": "350"
+      }
+    }
   ],
   "areas": [
 
