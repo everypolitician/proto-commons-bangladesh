@@ -1,4 +1,3 @@
-WARNING: no executive for বাংলাদেশের প্রধানমন্ত্রী (Q14565638) in বাংলাদেশ (Q902)
 WARNING: no executive for বাংলাদেশের রাষ্ট্রপতি (Q596123) in বাংলাদেশ (Q902)
 WARNING: no head of government position for চট্টগ্রাম বিভাগ (Q158087)
 WARNING: no head of government position for ঢাকা বিভাগ (Q330158)
@@ -11,6 +10,7 @@ WARNING: no head of government position for ময়মনসিংহ বি�
 WARNING: no head of government position for খুলনা (Q243325)
 WARNING: no head of government position for রাজশাহী (Q322155)
 WARNING: no head of government position for চট্টগ্রাম (Q376749)
+WARNING: no head of government position for সিলেট (Q466221)
 WARNING: no head of government position for ব্রাহ্মণবাড়ীয়া (Q897320)
 WARNING: no head of government position for রংপুর (Q994514)
 WARNING: no head of government position for  (Q2799572)
