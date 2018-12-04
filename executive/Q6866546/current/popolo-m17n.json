@@ -1,0 +1,74 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:bn": "শেখ হাসিনা",
+        "lang:en": "Sheikh Hasina"
+      },
+      "id": "Q52183",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52183"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:bn": "বাংলাদেশের মন্ত্রীসভা",
+        "lang:en": "Cabinet of Bangladesh"
+      },
+      "id": "Q6866546",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6866546"
+        }
+      ],
+      "area_id": "Q902"
+    },
+    {
+      "name": {
+        "lang:bn": "বাংলাদেশ আওয়ামী লীগ",
+        "lang:en": "Bangladesh Awami League"
+      },
+      "id": "Q1281480",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1281480"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52183-df101ad0-4630-ee43-ece5-e6a38198927f",
+      "person_id": "Q52183",
+      "on_behalf_of_id": "Q1281480",
+      "organization_id": "Q6866546",
+      "area_id": "Q902",
+      "start_date": "2009-01-06",
+      "role_superclass_code": "Q14565638",
+      "role_superclass": {
+        "lang:bn": "বাংলাদেশের প্রধানমন্ত্রী",
+        "lang:en": "Prime Minister of Bangladesh"
+      },
+      "role_code": "Q14565638",
+      "role": {
+        "lang:bn": "বাংলাদেশের প্রধানমন্ত্রী",
+        "lang:en": "Prime Minister of Bangladesh"
+      }
+    }
+  ]
+}
