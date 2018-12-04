@@ -1,0 +1,106 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_bn", "name_en", "party", "party_name_bn", "party_name_en", "district", "district_name_bn", "district_name_en", "role", "role_bn", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_bn", "role_superclass_en", "org", "org_bn", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1281480"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangladesh Awami League"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52183"
+      },
+      "party_name_bn" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "বাংলাদেশ আওয়ামী লীগ"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q902"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangladesh"
+      },
+      "district_name_bn" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "বাংলাদেশ"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565638"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565638"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Bangladesh"
+      },
+      "role_superclass_bn" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "বাংলাদেশের প্রধানমন্ত্রী"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Bangladesh"
+      },
+      "role_bn" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "বাংলাদেশের প্রধানমন্ত্রী"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sheikh Hasina"
+      },
+      "name_bn" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "শেখ হাসিনা"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6866546"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Bangladesh"
+      },
+      "org_bn" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "বাংলাদেশের মন্ত্রীসভা"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q52183-df101ad0-4630-ee43-ece5-e6a38198927f"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q902"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-06T00:00:00Z"
+      }
+    } ]
+  }
+}
