@@ -8,7 +8,7 @@ SELECT ?statement
        ?org ?org_bn ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q13058882 as ?role) .
-  BIND(wd:Q42712773 as ?specific_role) .
+  BIND(wd:Q13058882 as ?specific_role) .
   BIND(wd:Q1684080 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_bn
@@ -63,7 +63,7 @@ OPTIONAL {
 }
 
   }
-  ?statement pq:P2937 wd:Q29387197 .
+  ?statement pq:P2937 wd:Q58480663 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
