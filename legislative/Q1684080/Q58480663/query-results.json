@@ -1,8 +1,36 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_bn", "name_en", "party", "party_name_bn", "party_name_en", "district", "district_name_bn", "district_name_en", "role", "role_bn", "role_en", "role_superclass", "role_superclass_bn", "role_superclass_en", "start", "end", "facebook", "org", "org_bn", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_bn",
+      "name_en",
+      "party",
+      "party_name_bn",
+      "party_name_en",
+      "district",
+      "district_name_bn",
+      "district_name_en",
+      "role",
+      "role_bn",
+      "role_en",
+      "role_superclass",
+      "role_superclass_bn",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_bn",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count",
+      "linkedToTerm"
+    ]
   },
-  "results" : {
-    "bindings" : [ ]
+  "results": {
+    "bindings": [
+
+    ]
   }
 }
