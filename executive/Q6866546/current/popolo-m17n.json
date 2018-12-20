@@ -82,10 +82,10 @@
       "organization_id": "Q6866546",
       "area_id": "Q902",
       "start_date": "2009-01-06",
-      "role_superclass_code": "Q14565638",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:bn": "বাংলাদেশের প্রধানমন্ত্রী",
-        "lang:en": "Prime Minister of Bangladesh"
+        "lang:bn": "প্রধানমন্ত্রী",
+        "lang:en": "prime minister"
       },
       "role_code": "Q14565638",
       "role": {
