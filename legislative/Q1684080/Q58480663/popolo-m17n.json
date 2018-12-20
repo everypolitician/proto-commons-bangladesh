@@ -1,0 +1,7261 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q17070594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sherpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17070594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sherpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q20938722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:joypurhat-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20938722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Joypurhat-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q20938725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:joypurhat-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20938725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Joypurhat-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q21251327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:nilphamari-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21251327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Nilphamari-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q21252160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:shariatpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21252160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Shariatpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q21438707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:nilphamari-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21438707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Nilphamari-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q21523037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:nilphamari-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21523037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Nilphamari-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22162551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jessore-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22162551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jessore-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22162588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jessore-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22162588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jessore-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22162816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jessore-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22162816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jessore-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22166743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jessore-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22166743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jessore-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22167157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jessore-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22167157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jessore-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22242752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jessore-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22242752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jessore-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22665417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:magura-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22665417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Magura-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22665681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:magura-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22665681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Magura-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q22979468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:nilphamari-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22979468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Nilphamari-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q23008281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:lalmonirhat-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23008281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Lalmonirhat-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q23023970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rangpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23023970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rangpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q23809760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:lakshmipur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23809760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Lakshmipur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24672190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajshahi-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24672190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajshahi-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:thakurgaon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Thakurgaon-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:thakurgaon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Thakurgaon-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:thakurgaon-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Thakurgaon-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rangpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rangpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rangpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rangpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rangpur-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rangpur-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rangpur-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rangpur-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rangpur-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rangpur-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dinajpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dinajpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dinajpur-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dinajpur-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gaibandha-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gaibandha-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gaibandha-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gaibandha-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pabna-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pabna-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24692997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24692997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-7"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-8"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-9"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-10"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-11"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-12"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-13"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-14"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-15"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-16"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-17"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-18"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-19"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dhaka-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dhaka-20"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gazipur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gazipur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gazipur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gazipur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gazipur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gazipur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-7"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-8"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-9"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-10"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:mymensingh-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Mymensingh-11"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sherpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sherpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693104",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693104"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-7"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:tangail-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Tangail-8"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jamalpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jamalpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jamalpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jamalpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jamalpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jamalpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jamalpur-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jamalpur-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jamalpur-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jamalpur-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sherpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sherpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bogra-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bogra-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bogra-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bogra-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bogra-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bogra-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bogra-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bogra-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bogra-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bogra-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bogra-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bogra-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bogra-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bogra-7"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narail-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narail-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narail-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narail-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bagerhat-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bagerhat-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bagerhat-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bagerhat-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bagerhat-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bagerhat-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bagerhat-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bagerhat-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:khulna-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Khulna-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:khulna-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Khulna-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:khulna-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Khulna-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:khulna-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Khulna-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:khulna-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Khulna-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:khulna-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Khulna-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jhenaidah-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jhenaidah-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jhenaidah-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jhenaidah-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jhenaidah-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jhenaidah-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jhenaidah-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jhenaidah-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dinajpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dinajpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dinajpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dinajpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dinajpur-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dinajpur-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:dinajpur-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Dinajpur-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:lalmonirhat-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Lalmonirhat-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:lalmonirhat-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Lalmonirhat-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kurigram-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kurigram-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kurigram-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kurigram-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kurigram-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kurigram-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kurigram-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kurigram-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gaibandha-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gaibandha-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gaibandha-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gaibandha-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gaibandha-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gaibandha-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chapai-nawabganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chapai Nawabganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chapai-nawabganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chapai Nawabganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chapai-nawabganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chapai Nawabganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:naogaon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Naogaon-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:naogaon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Naogaon-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:naogaon-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Naogaon-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:naogaon-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Naogaon-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:naogaon-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Naogaon-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:naogaon-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Naogaon-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajshahi-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajshahi-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajshahi-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajshahi-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajshahi-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajshahi-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajshahi-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajshahi-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajshahi-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajshahi-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:natore-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Natore-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:natore-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Natore-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:natore-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Natore-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:natore-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Natore-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sirajganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sirajganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sirajganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sirajganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sirajganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sirajganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sirajganj-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sirajganj-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sirajganj-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sirajganj-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sirajganj-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sirajganj-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pabna-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pabna-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pabna-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pabna-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pabna-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pabna-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pabna-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pabna-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barguna-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barguna-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barguna-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barguna-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:patuakhali-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Patuakhali-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:patuakhali-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Patuakhali-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:patuakhali-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Patuakhali-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:patuakhali-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Patuakhali-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bhola-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bhola-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bhola-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bhola-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bhola-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bhola-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bhola-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bhola-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barisal-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barisal-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barisal-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barisal-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barisal-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barisal-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barisal-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barisal-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barisal-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barisal-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:barisal-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Barisal-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jhalokati-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jhalokati-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:jhalokati-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Jhalokati-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pirojpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pirojpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693546",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pirojpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693546"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pirojpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:pirojpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Pirojpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:bandarban-hills"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Bandarban Hills"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rangamati"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rangamati"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:khagrachhari"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Khagrachhari"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:netrokona-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Netrokona-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:netrokona-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Netrokona-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:netrokona-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Netrokona-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:netrokona-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Netrokona-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:netrokona-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Netrokona-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kishoreganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kishoreganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kishoreganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kishoreganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kishoreganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693671"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kishoreganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kishoreganj-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kishoreganj-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kishoreganj-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kishoreganj-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kishoreganj-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kishoreganj-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:manikganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Manikganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:manikganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Manikganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:manikganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Manikganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:munshiganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Munshiganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:munshiganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Munshiganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:munshiganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Munshiganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sunamganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sunamganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sunamganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sunamganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sunamganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sunamganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sunamganj-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sunamganj-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sunamganj-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sunamganj-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sylhet-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sylhet-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sylhet-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sylhet-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sylhet-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sylhet-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sylhet-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sylhet-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sylhet-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sylhet-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:sylhet-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Sylhet-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24693994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:maulvibazar-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24693994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Maulvibazar-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:maulvibazar-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Maulvibazar-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:maulvibazar-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Maulvibazar-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:maulvibazar-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Maulvibazar-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:habiganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Habiganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:habiganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Habiganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:habiganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Habiganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:habiganj-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Habiganj-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694101",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:brahmanbaria-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694101"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Brahmanbaria-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:brahmanbaria-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Brahmanbaria-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:brahmanbaria-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Brahmanbaria-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:brahmanbaria-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Brahmanbaria-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:brahmanbaria-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Brahmanbaria-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:brahmanbaria-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Brahmanbaria-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-7"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-8"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-9"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-10"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:comilla-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Comilla-11"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chandpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chandpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chandpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chandpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chandpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chandpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chandpur-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chandpur-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chandpur-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chandpur-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:satkhira-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Satkhira-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:satkhira-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Satkhira-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:satkhira-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Satkhira-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:satkhira-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Satkhira-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:feni-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Feni-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:feni-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Feni-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:feni-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Feni-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:noakhali-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Noakhali-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:noakhali-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Noakhali-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:noakhali-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Noakhali-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:noakhali-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Noakhali-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:noakhali-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Noakhali-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:noakhali-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Noakhali-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:lakshmipur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Lakshmipur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:lakshmipur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Lakshmipur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:lakshmipur-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Lakshmipur-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-6"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-7"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-8"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-9"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694396",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694396"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-10"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-11"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-12"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-13"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-14"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-15"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chittagong-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chittagong-16"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:coxs-bazar-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Cox's Bazar-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:coxs-bazar-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Cox's Bazar-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:coxs-bazar-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Cox's Bazar-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:coxs-bazar-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Cox's Bazar-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:meherpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Meherpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:meherpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Meherpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gazipur-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gazipur-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gazipur-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gazipur-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narsingdi-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narsingdi-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narsingdi-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narsingdi-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narsingdi-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narsingdi-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narsingdi-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narsingdi-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narsingdi-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narsingdi-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narayanganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narayanganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narayanganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narayanganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narayanganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narayanganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narayanganj-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narayanganj-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:narayanganj-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Narayanganj-5"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajbari-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajbari-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:rajbari-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Rajbari-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:faridpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Faridpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:faridpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Faridpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:faridpur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Faridpur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:faridpur-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Faridpur-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gopalganj-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gopalganj-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gopalganj-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gopalganj-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:gopalganj-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Gopalganj-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:madaripur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Madaripur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694492",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:madaripur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694492"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Madaripur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:madaripur-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Madaripur-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:shariatpur-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Shariatpur-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:shariatpur-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Shariatpur-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kushtia-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kushtia-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kushtia-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kushtia-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kushtia-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kushtia-3"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:kushtia-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Kushtia-4"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chuadanga-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chuadanga-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q24694517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:chuadanga-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24694517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Chuadanga-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q59390111",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:reserved-women"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59390111"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "reserved seat for Women"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q7130243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:panchagarh-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7130243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Panchagarh-1"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q7130244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd/js-constituency:panchagarh-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7130244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13058882"
+      ],
+      "type": {
+        "lang:bn": "জাতীয় সংসদের আসন",
+        "lang:en": "constituency of the Jatiyo Sangsad"
+      },
+      "name": {
+        "lang:en": "Panchagarh-2"
+      },
+      "parent_id": "Q902"
+    },
+    {
+      "id": "Q902",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:bd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q902"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14565638"
+      ],
+      "type": {
+        "lang:bn": "দেশ",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Bangladesh"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
