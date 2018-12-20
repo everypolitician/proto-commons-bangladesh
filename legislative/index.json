@@ -2,12 +2,20 @@
   {
     "comment": "Jatiya Sangshad",
     "house_item_id": "Q1684080",
+    "seat_count": "350",
+    "area_id": "Q902",
     "position_item_id": "Q13058882",
     "terms": [
       {
+        "comment": "11th Jatiyo Sangshad",
+        "term_item_id": "Q58480663"
+      },
+      {
         "comment": "10th Jatiyo Sangshad",
         "position_item_id": "Q42712773",
-        "term_item_id": "Q29387197"
+        "term_item_id": "Q29387197",
+        "start_date": "2014-01-29",
+        "end_date": "2019-01-28"
       }
     ]
   }

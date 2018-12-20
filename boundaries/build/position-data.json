@@ -1,0 +1,40 @@
+[
+  {
+    "role_id": "Q13058882",
+    "role_name": {
+      "lang:bn": "জাতীয় সংসদ সদস্য",
+      "lang:en": "Member of the Jatiya Sangshad"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:bn": "সংসদ সদস্য",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1684080",
+    "organization_name": {
+      "lang:bn": "জাতীয় সংসদ",
+      "lang:en": "Jatiya Sangshad"
+    }
+  },
+  {
+    "role_id": "Q14565638",
+    "role_name": {
+      "lang:bn": "বাংলাদেশের প্রধানমন্ত্রী",
+      "lang:en": "Prime Minister of Bangladesh"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:bn": "প্রধানমন্ত্রী",
+      "lang:en": "prime minister"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q6866546",
+    "organization_name": {
+      "lang:bn": "বাংলাদেশের মন্ত্রীসভা",
+      "lang:en": "Cabinet of Bangladesh"
+    }
+  }
+]
